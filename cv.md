@@ -2,7 +2,7 @@
 
 1. Contacts:
 
-    * Email: *PrudnikoFFVI@gmail.com*
+    * Email: *PrudnikOFFVI@gmail.com*
 
     * Telegram: [https://t.me/PrudnikOFFVI](@PrudnikOFFVI)
 
