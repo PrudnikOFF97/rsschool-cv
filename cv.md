@@ -32,6 +32,6 @@
 
 1. Courses:
 
-    * September 2019 | present time | JavaScipt Course | The Rolling Scopes School 2019Q3
+    September 2019 | present time | JavaScipt Course | The Rolling Scopes School 2019Q3
 
 1. A2+ (online-test on [https://test.str.by/](https://test.str.by/))
