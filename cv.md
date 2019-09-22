@@ -4,7 +4,7 @@
 
     * Email: *PrudnikOFFVI@gmail.com*
 
-    * Telegram: [https://t.me/PrudnikOFFVI](@PrudnikOFFVI)
+    * Telegram: [@PrudnikOFFVI](https://t.me/PrudnikOFFVI)
 
 1. I fond of front-end web development and I want to become a professional in this sphere. So **The Rolling Scopes School** is a good chance for me to increase my knowledge and as the result to rich my goal.
 
