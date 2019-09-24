@@ -23,7 +23,7 @@ header {
     display: flex;
     flex-direction: column;
 
-    background-image: url("/assets/img/Background.png");
+    background-image: url(/assets/img/Background.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-position-x: center;
